@@ -1,3 +1,3 @@
 Container repository for the wiki.
 
-You probably wanted to go here : https://github.com/healthhack-melb/wiki/wiki
+HealthHack Australia 2013 Wiki : https://github.com/HealthHackAu2013/wiki/wiki
